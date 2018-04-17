@@ -53,4 +53,4 @@ def plot_points(iterations):
     plt.show()
 
 
-plot_points(10000)
+plot_points(1000)
